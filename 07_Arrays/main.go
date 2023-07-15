@@ -25,7 +25,8 @@ func main() {
 	fmt.Println("The number of items in the array It is: ",len(it))
 
 	// If we declare the size of the array as 10 , the length of the array will be 2 only for extra we have error
-	var iti=[2]string{"A","B","C"}
+	//var iti=[2]string{"A","B","C"}
+	var iti=[2]string{"A","B"}
 	fmt.Println("The list of items in the array It is: ", iti)
 	fmt.Println("The number of items in the array It is: ",len(iti))
 }
