@@ -2,13 +2,14 @@ package main
 
 import (
 	"fmt"
-	"goBsics/channels"
-	functions "goBsics/functions"
-	"goBsics/generics"
-	"goBsics/goroutines"
-	"goBsics/operations"
-	"goBsics/pointer"
-	"goBsics/structInterface"
+	datastructurealgo "main/Data_Structure_Algo"
+	"main/channels"
+	functions "main/functions"
+	"main/generics"
+	"main/goroutines"
+	"main/operations"
+	"main/pointer"
+	"main/structInterface"
 	"unicode/utf8"
 )
 
@@ -95,5 +96,7 @@ func main() {
 	channels.Channels()
 
 	generics.Generics()
+
+	datastructurealgo.DriverFunc()
 
 }
