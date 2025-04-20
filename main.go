@@ -99,4 +99,6 @@ func main() {
 
 	datastructurealgo.DriverFunc()
 
+	datastructurealgo.DriverFuncRabbit()
+
 }
