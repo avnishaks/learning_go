@@ -101,4 +101,6 @@ func main() {
 
 	datastructurealgo.DriverFuncRabbit()
 
+	datastructurealgo.RunCountSubArray()
+
 }
