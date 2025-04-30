@@ -103,4 +103,6 @@ func main() {
 
 	datastructurealgo.RunCountSubArray()
 
+	datastructurealgo.RunFindNumber()
+
 }
