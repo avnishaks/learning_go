@@ -105,4 +105,6 @@ func main() {
 
 	datastructurealgo.RunFindNumber()
 
+	datastructurealgo.RunCodeForMinimumSumAfterReplacingZero()
+
 }
